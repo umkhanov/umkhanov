@@ -1,3 +1,3 @@
-Computer Engineering student at Bursa Technical University focused on mobile development, backend systems, and AI-powered applications.
+Computer Engineering student interested in software development, mobile applications, and AI-powered solutions.
 
 Currently building portfolio projects with React Native, TypeScript, Java, PHP, and AI integrations.
